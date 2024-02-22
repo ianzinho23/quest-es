@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-    //Definindo Vari·veis
+    //Definindo Vari√°veis
     inteiro mediaA 
     real media1, media2
     //Solicitando as notas do Aluno
@@ -12,7 +12,7 @@ programa {
     mediaA=media1+media2 / 2
     //SE
       se(mediaA>6)
-        escreva ("Aprovado Par·bens!!!")
+        escreva ("Aprovado Par√°bens!!!")
 
         senao
           escreva ("Reprovado :(")
