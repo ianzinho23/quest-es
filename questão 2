@@ -1,9 +1,9 @@
 programa {
   funcao inicio() {
-    //Definindo Vari·veis
+    //Definindo Vari√°veis
     cadeia nome, sexo, estadocivil
     inteiro anosdecasada
-    //Solicitando os d·dos de usu·rio
+    //Solicitando os d√°dos de usu√°rio
     escreva("Digite o nome: ")
     leia(nome)
 
