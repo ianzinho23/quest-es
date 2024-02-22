@@ -1,15 +1,15 @@
 programa{
   funcao inicio(){
-    //Definindo Variáveis
+    //Definindo VariÃ¡veis
     cadeia operacao
     real valor1, valor2
     inteiro resultado
-    //Solicitando Número ao usuário
+    //Solicitando NÃºmero ao usuÃ¡rio
     escreva("Digite o primeiro valor: ")
     leia(valor1)
     escreva("Digite o segundo valor: ")
     leia(valor2)
-    escreva("Digite a operação desejada: ")
+    escreva("Digite a operaÃ§Ã£o desejada: ")
     leia(operacao)
     //Verificando Resultados
     escolha(operacao){
@@ -26,7 +26,7 @@ programa{
       resultado=valor1/valor2
       pare
         caso contrario:
-          escreva("Operação Invalida.")
+          escreva("OperaÃ§Ã£o Invalida.")
     
     }
     //Exibindo o resultado
