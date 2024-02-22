@@ -11,7 +11,7 @@ programa {
     //Media Aritimetica
     mediaA=media1+media2 / 2
     //SE
-      se(mediaA>6)
+      se(mediaA>=6)
         escreva ("Aprovado Parábens!!!")
 
         senao
