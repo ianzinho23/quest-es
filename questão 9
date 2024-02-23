@@ -1,17 +1,17 @@
 programa{
   funcao inicio(){
-    //Definindo Vari·veis
+    //Definindo Vari√°veis
     real rendamensal,emprestimovlr
     inteiro numerodeprest
     real valordeprestacao
     real limiteValoremprestimo
     real limiteValorprestacao
-    //Solicitando dados ao usu·rio
+    //Solicitando dados ao usu√°rio
     escreva("Digite a sua renda mensal:")
     leia(rendamensal)
     escreva("Digite o valor de emprestimo: ")
     leia(emprestimovlr)
-    escreva("Digite o numero de prestaÁıes: ")
+    escreva("Digite o numero de presta√ß√µes: ")
     leia(numerodeprest)
     //Verificando
     valordeprestacao=emprestimovlr/numerodeprest
@@ -22,7 +22,7 @@ programa{
       escreva("Emprestimo bem concedido!!")
     }
         senao{
-          escreva("Emprestimo n„o pode ser concedido.")
+          escreva("Emprestimo n√£o pode ser concedido.")
         }
 
     
