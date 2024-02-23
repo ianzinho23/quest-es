@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-    //Definindo Vari·veis
+    //Definindo Vari√°veis
     real precodomorangoAB5KG=2.50
     real precodomorangoAC5KG=2.20
     real precodamacaAB5KG=1.80
@@ -8,8 +8,8 @@ programa {
     real desconto=0.1
     real quantidadedemorangoKG,quantidadedemacaKG,valortotal
     real valormorango, valormaca
-    //Solicitando d·dos ao usu·rio
-    escreva("Digite a quantidade de maÁ„ em KG: ")
+    //Solicitando d√°dos ao usu√°rio
+    escreva("Digite a quantidade de ma√ß√£ em KG: ")
     leia(quantidadedemacaKG)
     escreva("Digite a quantidade de morango em KG: ")
     leia (quantidadedemorangoKG)
