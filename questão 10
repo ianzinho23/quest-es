@@ -1,13 +1,13 @@
 programa{
   funcao inicio(){
-    //Declarando os preÁos
+    //Declarando os pre√ßos
     real valordagasolina=6.59
     real valordoalcool=3.79
     real dsctalcool25=0.02
     real dsctalcoolmais25=0.04
     real dsctgasolina=0.03
     real dscgasolinamais25=0.05
-    //Definindo Vari·veis
+    //Definindo Vari√°veis
     cadeia tipodecombustivel
     real quantidadedelitro, valorpago
     //MENU DE VALOR DO ALCOOL E DA GASOLINA
