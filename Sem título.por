@@ -1,0 +1,23 @@
+programa {
+  funcao inicio() {
+    //Definindo Variáveis
+    real valorA,valorB
+    inteiro valorC
+    //Solicitando dádos ao usuário
+    escreva("Insira o primeiro valor: ")
+    leia(valorA)
+    escreva("Insira o segundo valor: ")
+    leia(valorB)
+    //Somando os números
+        se(valorA==valorB)
+        valorC=valorA+valorB
+          senao
+            valorC=valorA*valorB
+        
+   //Exibindo resultados
+   escreva("\n=====EXIBINDO RESULTADO====")   
+   escreva("\nValor de C: ",valorC) 
+
+    
+  }
+}
