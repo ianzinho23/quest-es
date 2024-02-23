@@ -1,16 +1,16 @@
 programa {
   funcao inicio() {
-    //Definindo as Vari·veis
+    //Definindo as Vari√°veis
     cadeia nome
     inteiro quantidadeadquirida, precounitario, desconto, total, totalapagar
-    //Solicitando d·dos ao usu·rio
+    //Solicitando d√°dos ao usu√°rio
     escreva("Digite o nome do produto:")
     leia(nome)
 
     escreva("Digite a quantidade adquirida: ")
     leia(quantidadeadquirida)
 
-    escreva("Digite o preÁo: ")
+    escreva("Digite o pre√ßo: ")
     leia(precounitario)
     //Cauculando Resultado
     total=quantidadeadquirida*precounitario
